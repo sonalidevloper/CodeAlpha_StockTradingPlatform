@@ -1,4 +1,4 @@
-# 📈 CodeAlpha Stock Trading Platform
+# 📈CodeAlpha Stock Trading Platform
 
 ![Java](https://img.shields.io/badge/Java-23-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Build-Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
